@@ -2,9 +2,9 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: rgb(15, 1, 1);z
+    color: rgb(15, 1, 1);
     background-color: rgb(53, 224, 119);
-    padding: 25px
+    padding: 25px;
     
 }
 ul{
